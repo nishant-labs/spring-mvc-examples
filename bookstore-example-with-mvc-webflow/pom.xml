@@ -11,7 +11,7 @@
 	<properties>
 		<springVersion>4.1.7.RELEASE</springVersion>
 		<springSwfVersion>2.4.1.RELEASE</springSwfVersion>
-		<springSecurityVersion>4.0.1.RELEASE</springSecurityVersion>
+		<springSecurityVersion>5.4.6</springSecurityVersion>
 		<tilesVersion>2.2.1</tilesVersion>
 		<hibernateVersion>4.1.9.Final</hibernateVersion>
 		<hibernateValidatorVersion>4.3.0.Final</hibernateValidatorVersion>
